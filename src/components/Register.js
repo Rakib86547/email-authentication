@@ -98,10 +98,10 @@ const Register = () => {
             </Form>
             <div>
                 <button onClick={handleFacebookButton} className='btn btn-primary'>Sign in with Facebook</button>
-                <FontAwesomeIcon icon={['fab', 'apple']} />
+                {/* <FontAwesomeIcon icon={['fab', 'apple']} />
                 <FontAwesomeIcon icon={['fab', 'microsoft']} />
                 <FontAwesomeIcon icon="fa-brands fa-google" />
-                <FontAwesomeIcon icon="fa-brands fa-facebook-f" />
+                <FontAwesomeIcon icon="fa-brands fa-facebook-f" /> */}
             </div>
         </div>
     );
